@@ -70,6 +70,7 @@ coverage.xml
 *.mo
 
 # Django stuff:
+/static
 
 # Flask stuff:
 instance/
